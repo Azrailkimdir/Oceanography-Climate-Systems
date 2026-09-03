@@ -1,6 +1,6 @@
 ## Project Status
 
-🚧 In Development
+🚧 Completed - Pending Teacher Review
 
 # Oceanography and Climate Systems 
 
@@ -13,16 +13,10 @@ How do ocean currents and climate systems influence global temperatures, weather
 ## Research Areas
 
 - Oceanography
-
 - Climate Science
-
-- Systems Thinking
-
-- Scientific Modeling
-
 - Data Analysis
-
 - Scientific Research
+- Climate Science
 
 ## Project Highlights
 
@@ -44,14 +38,12 @@ Investigating how satellites, Argo floats, environmental observations, and data 
 
 ## Skills Demonstrated
 
-- Systems Thinking
-- Scientific Modeling
 - Data Analysis
 - Scientific Research
 - Critical Thinking
-- Scientific Communication
 - Climate Science
 - Oceanography
+- Environmental Science
 - Problem Solving
   
 ## Project Visuals
@@ -76,16 +68,14 @@ Exploring how environmental systems respond to changes in ocean circulation and 
 
 ![ENSO Ecosystem Effects](climate-ecosystem-interactions.png.png)
 
-## Project Files
 
-- Research Report (PDF)
-- Figures and Infographics
-- References
-- 
 ### Access Full Report
 [Oceanography and Climate Systems Report](Oceanography_and_Climate_Systems.pdf)
 
 ## Author
 
 Sarp AKAR
+
+Sept 2026
+
 
