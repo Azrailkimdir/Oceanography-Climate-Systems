@@ -16,7 +16,7 @@ How do ocean currents and climate systems influence global temperatures, weather
 - Climate Science
 - Data Analysis
 - Scientific Research
-- Climate Science
+- Problem Solving
 
 ## Project Highlights
 
@@ -69,7 +69,7 @@ Exploring how environmental systems respond to changes in ocean circulation and 
 ![ENSO Ecosystem Effects](climate-ecosystem-interactions.png.png)
 
 
-### Access Full Report
+### Access Full Research Report
 [Oceanography and Climate Systems Report](Oceanography_and_Climate_Systems.pdf)
 
 ## Author
