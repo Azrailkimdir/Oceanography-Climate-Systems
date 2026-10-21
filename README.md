@@ -1,7 +1,3 @@
-## Project Status
-
-🚧 Completed - Pending Teacher Review
-
 # Oceanography and Climate Systems 
 
 An independent research project exploring ocean circulation, climate systems, scientific modeling, and the role of large-scale environmental processes in shaping Earth's climate.
