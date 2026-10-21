@@ -74,4 +74,15 @@ Sarp AKAR
 
 Sept 2026
 
+## Academic Mentor
+
+This project was developed under the guidance of:
+
+**Okan Kaan Binzat**
+Biology Teacher
+ODTÜ Development Foundation Schools
+
+Scientific Mentor and Academic Reviewer
+
+
 
